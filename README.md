@@ -1,145 +1,104 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff41,40:00cc33,70:008822,100:003311&height=200&section=header&text=ADHIRAJ%20MAHESHWARI&fontSize=40&fontColor=ffffff&fontAlignY=45&animation=fadeIn&desc=it's%20hero%20time.&descSize=22&descAlignY=68&descColor=00ff41&stroke=00ff41&strokeWidth=2" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ee7752,25:e73c7e,50:23a6d5,75:23d5ab,100:a855f7&height=140&section=header&text=Adhiraj%20Maheshwari&fontSize=42&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=building%20%E2%80%A2%20learning%20%E2%80%A2%20shipping&descSize=16&descAlignY=78&descColor=ffffffcc" width="100%"/>
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&pause=1200&color=00FF41&center=true&vCenter=true&width=700&lines=OMNITRIX+ONLINE+%E2%9C%85;SCANNING+NEW+DEVELOPER...;B.Tech+CSE+%7C+SRM+NCR+%F0%9F%8E%93;Building+B2B+SaaS+from+Year+1+%F0%9A%80;10+ALIENS.+INFINITE+STACKS.+ONE+GOAL." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=e73c7e&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%40+SRM+NCR+%F0%9F%8E%93;Building+a+B2B+SaaS+from+year+1+%F0%9F%9A%80;Full+Stack+Dev+%2B+Business+guy;Turning+ideas+into+products+%E2%9A%A1" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=003311)](https://www.linkedin.com/in/adhiraj-maheshwari-71354736a/)
-[![GitHub](https://img.shields.io/badge/GitHub-00ff41?style=for-the-badge&logo=github&logoColor=003311)](https://github.com/AdhirajPersonal)
-[![Profile Views](https://komarev.com/ghpvc/?username=AdhirajPersonal&style=for-the-badge&color=00cc33&labelColor=003311&label=SCANNED+BY)](https://github.com/AdhirajPersonal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhiraj-maheshwari-71354736a/)
+[![GitHub followers](https://img.shields.io/github/followers/AdhirajPersonal?style=for-the-badge&color=e73c7e&labelColor=1a1a2e&label=followers)](https://github.com/AdhirajPersonal)
+[![Profile Views](https://komarev.com/ghpvc/?username=AdhirajPersonal&style=for-the-badge&color=23a6d5&label=profile+views)](https://github.com/AdhirajPersonal)
 
 </div>
 
 ---
 
-<div align="center">
+<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-```
- ██████╗ ███╗   ███╗███╗   ██╗██╗████████╗██████╗ ██╗██╗  ██╗
-██╔═══██╗████╗ ████║████╗  ██║██║╚══██╔══╝██╔══██╗██║╚██╗██╔╝
-██║   ██║██╔████╔██║██╔██╗ ██║██║   ██║   ██████╔╝██║ ╚███╔╝ 
-██║   ██║██║╚██╔╝██║██║╚██╗██║██║   ██║   ██╔══██╗██║ ██╔██╗ 
-╚██████╔╝██║ ╚═╝ ██║██║ ╚████║██║   ██║   ██║  ██║██║██╔╝ ██╗
- ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═══╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
-              [ ACTIVATED ] — IT'S HERO TIME ⚡
-```
+### hey, i'm adhiraj 👋
 
-</div>
-
----
-
-<img align="right" width="280" src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif"/>
-
-### 🟢 OMNITRIX BEARER IDENTIFIED
-
-```python
-bearer = {
-  "name"    : "Adhiraj Maheshwari",
-  "species" : "Human (Awakened Dev)",
-  "planet"  : "SRM NCR Campus, India 🇮🇳",
-  "year"    : "B.Tech CSE — Year 1",
-  "mission" : "Build B2B SaaS. Get rich. Have fun.",
-  "powers"  : ["Full Stack", "Business", "Sales Strategy"],
-  "mode"    : "HERO TIME 🟢",
-}
-```
-
-- 🟢 **Building** a B2B SaaS — product, sales & code, all at once
-- ⚡ **Learning** — business strategy, sales, team management
-- 🎌 **Fuelled by** — anime, manhwas, kdramas & late nights
-- 🌙 **Peak performance** unlocks after midnight, every time
-- 🚀 **Open to** collabs, builds, and big ideas
+- 🎓 &nbsp; **B.Tech CSE, Year 1** — SRM NCR Campus
+- 🚀 &nbsp; Building a **B2B SaaS** — figuring out product, sales & code all at once
+- 💡 &nbsp; Into **business strategy, sales** and how things actually scale
+- 🌙 &nbsp; Best ideas hit at 2am — no further questions
+- 🎌 &nbsp; Anime / Manhwa / Kdrama — big fan, always
+- 📬 &nbsp; Open to collabs, ideas, or just a good conversation
 
 <br clear="right"/>
 
 ---
 
+### 🛠️ tech stack
+
 <div align="center">
 
-### ⚡ SELECT YOUR ALIEN — TECH STACK
-
-```
-┌──────────────┐  ┌──────────────┐  ┌──────────────┐  ┌──────────────┐
-│  HEATBLAST   │  │  GHOSTFREAK  │  │  WILDMUTT    │  │  DIAMONDHEAD │
-│ ──────────── │  │ ──────────── │  │ ──────────── │  │ ──────────── │
-│  TypeScript  │  │    Python    │  │     PHP      │  │  JavaScript  │
-│   🔥 Main    │  │  👻 Scripts  │  │  🐾 Backend  │  │  💎 Logic    │
-└──────────────┘  └──────────────┘  └──────────────┘  └──────────────┘
-
-┌──────────────┐  ┌──────────────┐  ┌──────────────┐  ┌──────────────┐
-│  XLR8        │  │  FOURARMS    │  │  UPGRADE     │  │  GREYMATTER  │
-│ ──────────── │  │ ──────────── │  │ ──────────── │  │ ──────────── │
-│    React     │  │   Node.js    │  │     Git      │  │   VS Code    │
-│  ⚡ Frontend │  │  💪 Runtime  │  │  🔧 Control  │  │  🧠 Brain    │
-└──────────────┘  └──────────────┘  └──────────────┘  └──────────────┘
-```
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-### 📡 OMNITRIX READINGS — GITHUB STATS
+### 📊 github stats
 
 <div align="center">
 
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=AdhirajPersonal&show_icons=true&hide_border=true&border_radius=12&bg_color=001a0a&title_color=00ff41&text_color=88ff99&icon_color=00cc33&custom_title=combat+stats&ring_color=00ff41" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AdhirajPersonal&show_icons=true&hide_border=true&border_radius=16&bg_color=0d1117&title_color=e73c7e&text_color=c9d1d9&icon_color=23a6d5&custom_title=stats" />
 
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhirajPersonal&layout=compact&hide_border=true&border_radius=12&bg_color=001a0a&title_color=00ff41&text_color=88ff99&custom_title=alien+forms+used" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhirajPersonal&layout=compact&hide_border=true&border_radius=16&bg_color=0d1117&title_color=e73c7e&text_color=c9d1d9&custom_title=top+languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AdhirajPersonal&hide_border=true&background=001a0a&stroke=00ff41&ring=00cc33&fire=00ff41&currStreakLabel=00ff41&sideLabels=88ff99&dates=446644&currStreakNum=ffffff&sideNums=ffffff&border_radius=12" />
-
-</div>
-
----
-
-### 🛸 ACTIVE MISSIONS — PINNED REPOS
-
-<div align="center">
-
-[![BetterNotes](https://github-readme-stats.vercel.app/api/pin/?username=AdhirajPersonal&repo=BetterNotes&hide_border=true&border_radius=12&bg_color=001a0a&title_color=00ff41&text_color=88ff99&icon_color=00cc33)](https://github.com/AdhirajPersonal/BetterNotes)
-[![searchflox](https://github-readme-stats.vercel.app/api/pin/?username=AdhirajPersonal&repo=searchflox&hide_border=true&border_radius=12&bg_color=001a0a&title_color=00ff41&text_color=88ff99&icon_color=00cc33)](https://github.com/AdhirajPersonal/searchflox)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AdhirajPersonal&hide_border=true&background=0d1117&stroke=e73c7e&ring=a855f7&fire=ee7752&currStreakLabel=e73c7e&sideLabels=888&dates=666&currStreakNum=ffffff&sideNums=ffffff&border_radius=16" />
 
 </div>
 
 ---
 
-### 🌍 BATTLE ACTIVITY MAP
+### 🗂️ featured projects
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdhirajPersonal&bg_color=001a0a&color=00ff41&line=00cc33&point=ffffff&area=true&area_color=00ff41&hide_border=true&border_radius=12&custom_title=omnitrix+activity+log" />
+[![BetterNotes](https://github-readme-stats.vercel.app/api/pin/?username=AdhirajPersonal&repo=BetterNotes&hide_border=true&border_radius=16&bg_color=0d1117&title_color=e73c7e&text_color=c9d1d9&icon_color=23a6d5)](https://github.com/AdhirajPersonal/BetterNotes)
+[![searchflox](https://github-readme-stats.vercel.app/api/pin/?username=AdhirajPersonal&repo=searchflox&hide_border=true&border_radius=16&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&icon_color=23d5ab)](https://github.com/AdhirajPersonal/searchflox)
 
+</div>
+
+---
+
+### 📈 contribution graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdhirajPersonal&bg_color=0d1117&color=e73c7e&line=a855f7&point=23a6d5&area=true&area_color=e73c7e&hide_border=true&border_radius=16&custom_title=contribution+activity" />
+
+</div>
+
+---
+
+### 🏆 trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AdhirajPersonal&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
 </div>
 
 ---
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   OMNITRIX STATUS ················ FULLY CHARGED 🟢            │
-│   CURRENT FORM ················· BUILDER + HUSTLER             │
-│   NEXT TRANSFORMATION ·········· SOMETHING BIG 👀              │
-│   TIME REMAINING ··············· UNLIMITED                      │
-│                                                                 │
-│          this is only the beginning of the story.              │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+*currently in chapter 1 — but the arc is just getting started* ✨
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=13&pause=3000&color=00FF41&center=true&vCenter=true&width=500&lines=watch+is+at+100%25+%F0%9F%9F%A2;transforming+ideas+into+products+%E2%9A%A1;it%27s+hero+time.+always." alt="footer typing" />
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:003311,40:006622,70:00cc33,100:00ff41&height=100&section=footer&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:e73c7e,100:23a6d5&height=90&section=footer" width="100%"/>
 
 </div>
