@@ -20,7 +20,7 @@
 
 ### hey, i'm adhiraj 👋
 
-- 🎓 &nbsp; **B.Tech CSE, Year 1** — SRM NCR Campus
+- 🎓 &nbsp; **B.Tech CSE, Year 2** — SRM NCR Campus
 - 🚀 &nbsp; Building a **B2B SaaS** — figuring out product, sales & code all at once
 - 💡 &nbsp; Into **business strategy, sales** and how things actually scale
 - 🌙 &nbsp; Best ideas hit at 2am — no further questions
